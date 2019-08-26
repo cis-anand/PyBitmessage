@@ -125,9 +125,6 @@
     </message>
 </context>
 <context>
-    <name>EmailGatewayRegistrationDialog</name>
-</context>
-<context>
     <name>Mailchuck</name>
     <message>
         <location filename="../bitmessageqt/account.py" line="299"/>
@@ -1452,6 +1449,11 @@ Receiver&apos;s required difficulty: %1 and %2</source>
         <source>Show QR-code</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../bitmessageqt/__init__.py" line="2034"/>
+        <source>Error: The recipient address %1 contains invalid characters. Please check it.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MessageView</name>
@@ -1653,9 +1655,6 @@ T&apos; &apos;Random Number&apos; option be selected by default but deterministi
         <source>This is a chan address. You cannot use it as a pseudo-mailing list.</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context encoding="UTF-8">
-    <name>Ui_aboutDialog</name>
 </context>
 <context encoding="UTF-8">
     <name>aboutDialog</name>
