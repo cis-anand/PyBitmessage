@@ -1,8 +1,8 @@
 [main]
 host = https://www.transifex.com
 
-[bitmessage.bitmessage-en-ts]
-file_filter = translation/bitmesssage_<lang>.ts
+[project_002.bitmessage-en-ts]
+file_filter = src/translations/bitmessage_<lang>.ts
 minimum_perc = 0
 source_file = src/translations/bitmessage_en.ts
 source_lang = en
